@@ -1,4 +1,3 @@
-### Hi there 👋
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80" alt="header">
   <a href="https://git.io/typing-svg">
