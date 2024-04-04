@@ -14,7 +14,7 @@
   <h4>🌏Contact & Channels</h4>
   
   
-   <a href="https://mail.google.com/mail/u/0/#inbox?compose=lqrsljbPrCSmshZKKGKtpnRqPsGWKpKmcbzHvCtvdBfGxfsnFkTlCBwFktkVLrsClTTMFlWkZjkXMxmjz" target="_blank"><img width=60 src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
+   <a href="mailto:rnfvh9788@gmail.com" target="_blank"><img width=60 src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
    <a href="https://velog.io/@hyunjun9788/posts" target="_blank"><img width=83 src="https://img.shields.io/badge/Tech Blog-20C997?style=flat&logo=Velog&logoColor=white"/></a>
   <a href="https://blog.naver.com/easyitinfo" target="_blank"><img width=93 src="https://img.shields.io/badge/Hobby Blog-04cf5c?style=flat&logo=Naver&logoColor=white"/></a>
 
