@@ -34,10 +34,10 @@
 
   <div>
     <a href="https://github-readme-stats.vercel.app/api?username=hyunjun9788&show_icons=true">
-      <img src="https://github-readme-stats.vercel.app/api?username=hyunjun9788&show_icons=true" width=40% alt="GitHub Stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=hyunjun9788&show_icons=true" width=55% alt="GitHub Stats">
     </a>
     <a href="https://github.com/hyunjun9788">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyunjun9788&show_icons=true&hide_border=false&title_color=004386&icon_color=004386" width=24.5% alt="Top Languages">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyunjun9788&show_icons=true&hide_border=false&title_color=004386&icon_color=004386" width=33.7% alt="Top Languages">
     </a>
     
   </div>
