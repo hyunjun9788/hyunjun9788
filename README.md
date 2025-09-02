@@ -1,8 +1,9 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80" alt="header">
-  <a href="https://git.io/typing-svg">
+<!--   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=55&duration=3500&pause=3&color=6994CDEE&center=True&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+hyunjun+GitHub!👋" alt="Typing SVG">
-  </a>
+  </a> -->
+ <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=6994CDEE&duration=3500&pause=3&text=HyunJun's%20GitHub%20&height=150&fontSize=60&descAlignY=75&descAlign=60" alt="HyunJun's GitHub">
 </div>
 
 <br>
